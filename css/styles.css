@@ -42,6 +42,10 @@ p {
     background: #F2FBFF;
 }
 
+.posted-message {
+    margin-bottom: 20px;
+}
+
 .btn {
     color: #fff;
     background: #4BB9DB;
@@ -65,4 +69,8 @@ p {
 
 .post-input label {
     line-height: 39px;
+}
+
+.notice {
+    color: red;
 }
